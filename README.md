@@ -1,3 +1,44 @@
-# Algoritmo-II---Pilha-e-Fila
-yyyy d
-eeddgdd troquei meu telefone por eessssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssxsssswsssssssssssssssssssssssssssssssssssssssssssssssssssssssqsssssssssssssssqsssssssssssssssssssssssssssssssssssssssssssssssssssssqssssssssssssssssssssssssssssssssssqssssssssssssssssssssssssssssssssssssssqsssssssssssssssssssssqsssssssssssssssssssssssssdssqssqsssssssssssssssssssssssqssssssssqssas sdd sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdssssssssssssqssssssssssssssssssssaqssssssqssssssssssssssssssssssasssssssssssssssssssssssssssssqsssssxssssssssssdsssssqsssqqsqssqsssssssssssssssqssssdsqqsssssssassssqsssssssssssssssssxssssdssssssqsssqdsssqqqsqssssdssssqsssssssssqssqqsssssqsssssssssssssssssqssssssssqssqsqsssssssdsssssqsqsssassqsssssssssssssssqsqasqdxsqqsqssqssssssqssssssssssssqsssqdsssssqsssqsssssssssassssqssssssdssqsssxsssqsssssssassqssssssssqssssqsssqssssqqssssqssssssssssssssssssssssqsssssssdssssssxqsssdqqssssddssssssdssssqsqssssqqsqsssqssssssasqsssssddssqssssssqqssssssssssqqsssssssqssqsqsssqqsssssssssssssssssssqsswsqsqssssssssssssaqssqsssssssssssqsdsssssssssassqqsssssssssqssssssssssqssssddsssssqsssssqsssssssasssssxssqsadssssssssssssqsssssssssssssssqsssssssssssssssqqsssqqsssqsssssssssssssssssssqsssxssqssssssssssxsssssqssssssxsdssssxsssssqsssssssssssssssssssssqsqsssssssssssssssssssssssssssxsssssssssssssqsssqssssssssqsssqssqssssqssqqssssqsssssssssssssssasssssxssssxssqsssqqsssx sdd qxsqsdqxsxs SS QQ asssss QQ SS as qss QQ qqqsqxsqsqssqqs QQ da sqss QQ sss de qs SS sq ass SS qss SS ssqxddssqqss ass ssssx QQ ssqsqsssqsqsssssqs QQ sqxsqqsqq as qqssq só SS xsqs da s QQ ssqssssssqsssssqs ass ss ass SS qssqsqsqqs qd s QQ ass ssqsssqqs da sd ass qsssssqs SS SS ssss QQ qsqqq QQ qqqq de da s QQ QQ q SS sq as s SSA s SS ass QQ QQ s SSs QQ QQ SS qs QQ SS ass SS QQ sóa SS ssqssssqsqsqsqsssss SS das SS SS QQ QQ q QQ ss seja QQ qqsq ass s SS a SS de s QQ sqsqs da qqqsassqsq as qqq da assim aq das QQ QQ w das q ass SS SS sas SS QQ qq SS ass QQ QQ sqss as casa SS qssssssssssssssssssssw das sxsssqssssssssqssssdssqs SS sss QQ s qd sq qd s SS QQ as SS ssq ass q as q SS s QQ QQ ss SS QQ QQ SS QQ da s ass qs SS qsqsssssssssssssss de sssssssss as essaq essa SS QQ QQ qd SS QQ SS as QQ QQ são SS QQ SS SS s SS SS s
+# Implementação de TAD: Pilha e Fila
+
+## Descrição
+Este repositório contém a implementação das estruturas de dados **Pilha (Stack)** e **Fila (Queue)**, seguindo o conceito de **TAD (Tipo Abstracto de Dados)**, nas linguagens:
+
+- Java
+- Python
+
+O trabalho foi desenvolvido como parte da actividade prática da disciplina.
+
+---
+
+## Estruturas implementadas
+
+### Pilha (Stack)
+Operações fundamentais:
+- `push()` → Inserção
+- `pop()` → Remoção
+- `peek()` → Consulta do topo
+- `isEmpty()` / `is_empty()` → Verificação se está vazia
+
+### Fila (Queue)
+Operações fundamentais:
+- `enqueue()` → Inserção
+- `dequeue()` → Remoção
+- `front()` → Consulta do primeiro elemento
+- `isEmpty()` / `is_empty()` → Verificação se está vazia
+
+---
+
+## Organização do projecto
+
+```bash
+Estruturas-TAD-Pilha-Fila/
+│
+├── README.md
+│
+├── java/
+│   ├── Fila.java
+│   └── Pilha.java
+│
+└── python/
+    ├── fila.py
+    └── pilha.py
